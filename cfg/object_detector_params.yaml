@@ -1,0 +1,8 @@
+YoloObjectDetector:
+  thresh: 0.3
+  heir_thresh: 0.5
+  nms: 0.4
+  frames: 1
+  verbose: false
+  model_file: yolov2-tiny
+  data_file: coco
